@@ -1,4 +1,8 @@
-# ✨ MysticIsles 
+# ✨ MysticIsles
+
+[![badge](https://shieldcn.dev/x/follow/playmysticisles.svg?variant=outline)](https://x.com/playmysticisles)
+[![badge](https://shieldcn.dev/youtube/subscribers/UCGFh-3oDbgKiPLilpqScRZA.svg?variant=branded)](https://www.youtube.com/channel/UCGFh-3oDbgKiPLilpqScRZA)
+
 
 MysticIsles has always been a passion project from the very beginning. After the downfall of my favourite server at the time (Mineclub), I realised that the community was left in limbo; There was nowhere to go. Through the disarray, I created MysticIsles with the goal of building a platform to hold up the community and give them a space to continue thriving. 
 
